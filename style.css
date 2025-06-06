@@ -6,7 +6,7 @@ body {
     color: #333333; /* cor do texto */
     margin: 0;
     padding: 20px;
-    background-color: #5cad5f;
+    background-color: #000000;
 }
 
 /* Cabeçalho */
@@ -19,7 +19,7 @@ header {
 
 /* Títulos */
 h1, h2, h3 {
-    color: #306158; /* verde mais escuro */
+    color: #20ffd6; /* verde mais escuro */
 }
 
 /* Navegação */
@@ -41,7 +41,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #004d40;
+    color: #0d32ff;
 }
 
 /* Seções de conteúdo */
